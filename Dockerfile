@@ -1,6 +1,7 @@
 FROM aquabotwa/sanuwa-official:md-beta
 
-RUN git clone https://github.com/Raizel-2023/AQUABOT-MD /root/aquabot
+RUN git clone 
+https://github.com/7Hhhhhkj/AQUABOT-MD /root/aquabot
 WORKDIR /root/aquabot/
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
