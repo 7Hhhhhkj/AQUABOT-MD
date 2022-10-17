@@ -7,36 +7,42 @@
                             "COMMAND"  : "مهمه",
                             "DESC"     : "الوصف",
                             "EXAMPLE"  : "مثال",
-                            "NOT_FOUND": "*I couldnt find a command like this*",
+                            "NOT_FOUND": "*
+لم أتمكن من العثور على أمر مثل هذا*",
                             "WARN"     : "انذار"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
+                            "N_SONG"   : "*🧜‍♀️💬جيب اسم الموسيقي*\nex : .song faded" ,
+                            "NOT_SONG" : "*لا يوجد للأسف‼️*" ,
                             "S_YT"     : "*🔍البحث في يوتيوب...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
+                            "N_VID"    : "*🧜‍♀️💬
+أدخل رابط فيديو YOUTUBE*\nex : .video 
+https://youtu.be/MBPIx3f-VIA" ,
+                            "N_FB"     : "*🧜‍♀️💬جيب رابط فيسبوك*" , 
+                            "N_MF"     : "*🧜‍♀️💬جيب رابط ميديا فاير*" , 
+                            "N_TIK"    : "*🧜‍♀️💬اعطني لينك الفيديو لتيكتوك*" ,
                             "NOT_VID"  : "*الفيديو غير موجود‼️*", 
                             "N_IG "    : "🧜‍♀️💬اعطني لينك الانستغرام",
                             "N_FOUND"  : "*لا يوجد‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": !*",
-                             "IM_NOT_ADMIN": "*انت مش ادمن يبيض!*",
+                             "UR_NOT_ADMIN": "انت مش ادمن يبيض",
+                             "IM_NOT_ADMIN": "*انا مش ادمن يبيض!*",
                              "BANNED": "ما اقدر ازيل مشرف!",
                              "GIVE_ME_USER": "*اعطني مستخدم!*" ,
                              "USER_IS_ADMIN" : "*ما ازيل مشرف!*" ,
-                             "ADDED"         : "added to the group!!" ,
-                             "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬The person you mentioned is a group admin.*",
-                             "MUTE"          : "*🧜‍♀️💬The group chat has muted!.*",
-                             "UNMUTE"        : "*🧜‍♀️💬The group chat has unmuted!.*",
-                             "PROMOTE"       : "has been promoted !",
-                             "DEMOTE"        : "has been demoted !"
+                             "ADDED"         : "تم اضافته!!" ,
+                             "E_USER"        : "*🧜‍♀️💬  
+أدخل الرقم المراد إضافته إلى المجموعة مع رمز البلد بدون علامة + ومسافة.*",
+                             "ISN_ADMIN"     : "*🧜‍♀️💬
+الشخص الذي ذكرته ليس مسؤول مجموعة.*",
+                             "IS_ADMIN"      : "*🧜‍♀️💬
+الشخص الذي ذكرته هو مسؤول المجموعة.*",
+                             "MUTE"          : "*🧜‍♀️💬تم قفل جد القروب!.*",
+                             "UNMUTE"        : "*🧜‍♀️💬تم فتح القروب!.*",
+                             "PROMOTE"       : "تم ترقية الحيوان !",
+                             "DEMOTE"        : "تم اقالة الحيوان !"
     
                            } ,
                 "stic" : {
@@ -49,7 +55,7 @@
                
                 "apk"  :  {  
                               "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "ERROR"  : "*🧜‍♀️💬لا ييوجد تطبيق!.*"
     
                            },
          "filters": {
